@@ -13,15 +13,15 @@ Using 1000 drops:
 
 ![](images/result1.png)
 
-Using 10 000 drops:
+Using 5 000 drops:
 
 ![](images/result2.png)
 
-Using 100 000 drops:
+Using 10 000 drops:
 
 ![](images/result3.png)
 
-Using 1 000 000 drops:
+Using 100 000 drops:
 
 ![](images/result4.png)
 
